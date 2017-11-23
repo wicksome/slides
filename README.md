@@ -1,6 +1,6 @@
 # Slides 
 
-- reveal.js
+- reveal.js 3.5.0
 
 ---
 
@@ -10,7 +10,7 @@
 $ cp -r template new_slide && cd new_slide
 $ vi README.md
 ```
-## 슬라이드 실행
+## 슬라이드 실행(local)
 
 ```
 $ npm install

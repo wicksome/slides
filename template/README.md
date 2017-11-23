@@ -2,7 +2,7 @@
 
 main content
 
-<left>test</left>
+reveal.js <!-- .element: style="text-align: right;" -->  
 
 ---
 
@@ -15,6 +15,38 @@ content
 # slide 1-1
 
 content
+
+---
+
+# Text align: left
+<!-- .slide: style="text-align: left;" -->  
+
+content
+
+```
+<!-- .slide: style="text-align: left;"> -->
+```
+
+===
+
+# Text align: right 
+<!-- .slide: style="text-align: right;" -->  
+
+content
+
+```
+<!-- .slide: style="text-align: right;" -->
+```
+
+===
+
+# Text 
+
+right <!-- .element style="text-align: right;" -->
+
+content
+
+left <!-- .element style="text-align: left;" -->
 
 ---
 
@@ -84,6 +116,21 @@ css 파일 생성하고, index.html 추가
 ```css
 .custom-background {
     background-color: #ffeeee;
+}
+```
+
+===
+
+## Custom logo
+
+배경설정 안했을 경우에만 적용
+
+```css
+body {
+    background-image: url(./logo.png);
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
 }
 ```
 
