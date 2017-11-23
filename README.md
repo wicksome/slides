@@ -2,6 +2,8 @@
 
 - reveal.js 3.5.0
 
+example: https://wicksome.github.io/slides/
+
 ---
 
 ## 새로운 템플릿 생성
