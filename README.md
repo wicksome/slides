@@ -2,7 +2,7 @@
 
 - reveal.js 3.5.0
 
-example: https://wicksome.github.io/slides/
+example: https://wicksome.github.io/slides/template
 
 ---
 

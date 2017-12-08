@@ -1,6 +1,6 @@
 # Slide Template
 
-main content
+md file: https://github.com/wicksome/slides/blob/master/template/README.md
 
 reveal.js <!-- .element: style="text-align: right;" -->  
 
